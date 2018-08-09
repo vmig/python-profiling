@@ -1,0 +1,4 @@
+line_profiler
+profilehooks
+memory_profiler
+matplotlib
