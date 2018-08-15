@@ -11,6 +11,14 @@
 # Cons: Rather limited information that usually requires deeper debugging;
 #       reports are a bit unintuitive, especially for complex codebases.
 
+# Viewers:
+# 1. PyCharm integrated tool:
+#    https://www.jetbrains.com/pycharm/   (Tools -> Open CProfile snapshot)
+# 2. `SnakeViz` is a browser based graphical viewer for the output of Python’s cProfile module:
+#    https://jiffyclub.github.io/snakeviz/
+# 3. `tuna` is a Python profile viewer:
+#    https://github.com/nschloe/tuna
+
 import cProfile
 from functools import wraps
 import os
