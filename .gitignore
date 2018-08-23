@@ -65,6 +65,8 @@ ENV/
 .LSOverride
 
 ### Project-local files
+examples/profiles/
+*.plop
 *.dump
 *.dat
 *.lprof

@@ -2,3 +2,5 @@ line_profiler
 profilehooks
 memory_profiler
 matplotlib
+plop
+git+https://github.com/bos/statprof.py.git@master#egg=statprof
